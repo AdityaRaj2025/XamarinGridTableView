@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinGridTable.MainPage">
+
+
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <Label Text="Xamarin Grid Table View" HorizontalTextAlignment="Center" FontAttributes="Bold" TextColor="White"/>
+            
+            <Grid BackgroundColor="Black">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Label HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Text="Heading" Grid.Row="0" Grid.Column="0" />
+                <AbsoluteLayout Grid.Column="1" Grid.Row="0" VerticalOptions="FillAndExpand" >
+                    <ScrollView x:Name="colScrollView" Orientation="Horizontal" VerticalScrollBarVisibility="Never" HorizontalScrollBarVisibility="Never" AbsoluteLayout.LayoutBounds="0,0,1,1.1" AbsoluteLayout.LayoutFlags="All">
+                        <Grid BackgroundColor="LightGoldenrodYellow" x:Name="timelist">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                        </Grid>
+                    </ScrollView>
+
+                </AbsoluteLayout>
+                <AbsoluteLayout Grid.Column="0" Grid.Row="1" VerticalOptions="FillAndExpand">
+                    <ScrollView x:Name="rowScrollView" Orientation="Vertical" VerticalScrollBarVisibility="Never" HorizontalScrollBarVisibility="Never" AbsoluteLayout.LayoutBounds="0,0,1.1,1" AbsoluteLayout.LayoutFlags="All">
+                        <Grid BackgroundColor="#2F4F4F" x:Name="roomtype">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                        </Grid>
+                    </ScrollView>
+                </AbsoluteLayout>
+
+                <AbsoluteLayout Grid.Column="1" Grid.Row="1" VerticalOptions="FillAndExpand" x:Name="data">
+                    <ScrollView x:Name="dataScrollView" Orientation="Both" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All">
+                        <Grid BackgroundColor="LightSlateGray" x:Name="status">
+                        </Grid>
+                    </ScrollView>
+                </AbsoluteLayout>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

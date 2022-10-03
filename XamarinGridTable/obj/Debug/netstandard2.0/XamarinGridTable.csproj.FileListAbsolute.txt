@@ -1,0 +1,15 @@
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\bin\Debug\netstandard2.0\XamarinGridTable.deps.json
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\bin\Debug\netstandard2.0\XamarinGridTable.dll
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\bin\Debug\netstandard2.0\XamarinGridTable.pdb
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\obj\Debug\netstandard2.0\XamarinGridTable.csproj.AssemblyReference.cache
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\obj\Debug\netstandard2.0\XamarinGridTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\obj\Debug\netstandard2.0\XamarinGridTable.AssemblyInfoInputs.cache
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\obj\Debug\netstandard2.0\XamarinGridTable.AssemblyInfo.cs
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\obj\Debug\netstandard2.0\XamarinGridTable.csproj.CoreCompileInputs.cache
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\obj\Debug\netstandard2.0\XamarinGridTable.dll
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\obj\Debug\netstandard2.0\refint\XamarinGridTable.dll
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\obj\Debug\netstandard2.0\XamarinGridTable.pdb
+C:\Users\RajAditya\Desktop\Starland Test Project\Learn\XamarinGridTable\XamarinGridTable\obj\Debug\netstandard2.0\ref\XamarinGridTable.dll

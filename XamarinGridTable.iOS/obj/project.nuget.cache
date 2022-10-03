@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yUjU3RWDxiHnvIWjlLGOGOBSAfqFiHitVgXAhmXXUM/JJd+rT7C3CVK64lsRRhxqdQJGmRaT9Q5S9uKeGnoPWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RajAditya\\Desktop\\Starland Test Project\\Learn\\XamarinGridTable\\XamarinGridTable.iOS\\XamarinGridTable.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RajAditya\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\RajAditya\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\RajAditya\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
