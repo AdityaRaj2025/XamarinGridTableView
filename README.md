@@ -1,6 +1,6 @@
 # Grid Table View for Xamarin.Forms
 
-A Xamarin.Forms control for displaying data in rows and columns using Xamarin Grid.
+A Xamarin control for displaying data in rows and columns using the customization of Grid
 
 Here first column of a table fixed on horizontal scroll.
 
